@@ -19,12 +19,12 @@ body {
     padding: 0;
     text-align: center;
 }
-.matanimheader {
+.al7escr1pteheader {
     background: url('/al7escr1pte.github.io/content/img/al7escr1pteheader.jpg') no-repeat center/cover;
     height: 150px;
     display: flex;
 }
-.matanimavatar {
+.al7escr1pteavatar {
     background: url('/al7escr1pte.github.io/content/img/al7escr1pteavatar.jpg') no-repeat center/cover;
     width: 200px;
     height: 200px;
@@ -32,7 +32,7 @@ body {
     overflow: hidden;
     margin: 20px auto;
 }
-.matanimcontent {
+.al7escr1ptecontent {
     padding: 20px;
     max-width: 800px;
     margin: 0 auto;
